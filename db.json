@@ -1,0 +1,18 @@
+{
+  "posts": [{
+    "cam1": " 3 persons, 1 car, 1 bottle, 2 chairs, 1 tv",
+    "cam2": " 1 person",
+    "date": "Tue, 19 April 12:16:29 ",
+    "status": "High"
+  }, {
+    "cam1": " 3 persons, 2 chairs, 1 tv",
+    "cam2": " 1 person",
+    "date": "Tue, 19 April 12:16:32 ",
+    "status": "Low"
+  }, {
+    "cam1": " 4 persons, 1 bottle, 2 chairs, 1 tv",
+    "cam2": " 1 person",
+    "date": "Tue, 19 April 12:16:35 ",
+    "status": "Medium"
+  }]
+}

@@ -1,0 +1,10 @@
+0: 480x640 3 persons, 1 car, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (1.005s) Tue, 19 April 12:16:29 status : Low
+0: 480x640 3 persons, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (0.821s) Tue, 19 April 12:16:32 status : Low
+0: 480x640 4 persons, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (0.715s) Tue, 19 April 12:16:35 status : Low
+0: 480x640 3 persons, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, 1 clock, Done. date (0.584s) Tue, 19 April 12:16:37 status : Low
+0: 480x640 4 persons, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (0.542s) Tue, 19 April 12:16:40 status : Low
+0: 480x640 4 persons, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (0.536s) Tue, 19 April 12:16:42 status : Low
+0: 480x640 3 persons, 1 car, 2 chairs, 1 tv, 1: 480x640 1 person, Done. date (0.538s) Tue, 19 April 12:16:45 status : Low
+0: 480x640 6 persons, 1 bottle, 2 chairs, 1: 480x640 2 persons, 1 clock, Done. date (0.571s) Tue, 19 April 12:16:47 status : Low
+0: 480x640 4 persons, 1 bottle, 2 chairs, 1 tv, 1: 480x640 1 person, 1 clock, Done. date (0.534s) Tue, 19 April 12:16:50 status : Low
+0: 480x640 3 persons, 1 car, 1 bottle, 2 chairs, 1: 480x640 1 person, 1 clock, Done. date (0.705s) Tue, 19 April 12:16:52 status : Low
